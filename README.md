@@ -1,4 +1,4 @@
-# atividade-controle-de-versionamento
+# Atividade de controle de versionamento
 
 Repositório dedicado à atividade prática de controle de versionamento da disciplina <i>GCC132 - Modelagem e Implementação de Software</i>
 
